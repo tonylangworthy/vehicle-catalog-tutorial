@@ -1,7 +1,7 @@
 ### Vehicle Catalog Application
 
 ##### About
-This corresponds to my tutorial at [langworthytech.com](https://langworthytech.com/blog/category/building-vehicle-catalog/)
+This corresponds with my tutorial at [langworthytech.com](https://langworthytech.com/blog/category/building-vehicle-catalog/)
 
 This is a simple Rest API CRUD Java application using the Spring Boot framework that retrieves 
 information about a vehicle by passing a VIN (vehicle identification number) to the service.
