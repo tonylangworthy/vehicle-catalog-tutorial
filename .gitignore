@@ -36,6 +36,7 @@ build/
 /bin/
 
 ### Skipping these directories for now ###
+/src/main/java/com/webbdealer/catalog/adapters/*
 /src/main/java/com/webbdealer/catalog/config/*
 /src/main/java/com/webbdealer/catalog/dto/*
 /src/main/java/com/webbdealer/catalog/models/*
