@@ -32,7 +32,7 @@ import static org.mockito.Mockito.*;
 @DataJpaTest
 @RunWith(SpringRunner.class)
 //@ExtendWith(MockitoExtension.class)
-public class CatalogServiceImplIntegrationTest {
+public class CatalogServiceImplUnitTest {
 
 //    @Mock
 //    private YearModelTrimRepository ymtRepository;
